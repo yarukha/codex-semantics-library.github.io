@@ -13,10 +13,16 @@
         - name: Paul Robert
         - name: Matthieu Lemerre
         - name: Mihaela Sighireanu
-      easy-summary: /papers/2026-stt-null-pointer-inference.md
+      venue-acronym: STTT
+      easy-summary: /papers/2026-sttt-null-pointer-inference.html
       doi:  10.1007/s10009-026-00846-0
-      bibtex: /assets/publications/bibtex/2026-sttt-null-pointer-inference.bib
+      bibtex: /assets/publications/bibtex/2026-sttt-null-pointer-interfence.bib
       pdf: /assets/publications/pdfs/2026-sttt-null-pointer-inference.pdf
+      topics:
+        - abstract interpretation
+        - memory safety
+        - Typed C
+        - type inference
 
 
 - year: 2025
